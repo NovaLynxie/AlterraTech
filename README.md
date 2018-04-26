@@ -1,4 +1,6 @@
 # AlterraTech
+THIS REPOSITORY IS NO LONGER BEING MAINTAINED! ANY FILES OR CODE WILL BE OUTDATED!
+
 AlterraTech Main Database Repository. This is for ALL data to be used for faction usage.
 DO NOT TAKE ANY DATA AND USE IT AS YOUR OWN UNDER ANY CIRCUMSTANCES.
 
